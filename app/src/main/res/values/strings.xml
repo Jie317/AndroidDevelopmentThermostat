@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Thermo2_2</string>
+
+    <string name="hello_world">THERMOSTAT DOMOTIQUE</string>
+
+    <string name="TreSalon">Salon</string>
+    <string name="TreCH1">Chambre 1</string>
+    <string name="treChambre1">0.0</string>
+    <string name="treSalon">0.0</string>
+
+    <string name="action_settings">Actualiser All</string>
+</resources>
